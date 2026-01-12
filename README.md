@@ -24,12 +24,12 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=28&color=00F0FF&width=300&lines=About+Me&vCenter=true&center=false&repeat=false" alt="About Me" />
 </p>
 
-- 🎓 Final year **Computer Science & Engineering** student at university.
-- 💼 Working as a **Freelance Web Developer** and Graphic Designer.
-- 🌱 Mastering **Full Stack Development** and Modern Web Architectures.
-- 🤖 Exploring **Machine Learning** and AI-driven solutions.
-- ✍️ Passionate about **Competitive Programming** and side projects.
-- 🎬 Fan of **Anime** and enthusiast of Manhwa and Novels.
+- 🎓 Final year **Computer Science & Engineering** student.
+- 💼 Handling freelance **Web Development** & **Graphic Design**.
+- 🌱 Figuring out **Full Stack Systems** and playing with new architectures.
+- 🤖 Exploring how to mix **Machine Learning** with web apps.
+- 🎬 In my downtime, I enjoy **Anime**, **Manhwa**, **Novels**, & **Movies**.
+- ☕ A dedicated **Coffee** lover—it's what keeps me going.
 
 <br clear="right">
 
