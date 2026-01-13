@@ -18,7 +18,9 @@
 </p>
 
 <br>
-<img align="right" alt="coding" width="300" src="https://github.com/mehedi-hasan-arif2/mehedi-hasan-arif2/blob/main/Assets/68747470733a2f2f696d616765732e737465616d75736572636f6e74656e742e636f6d2f7567632f313636313232343731323036393233303938312f42464436413133424242463646314132413746413641364441393631453037303.gif"/>
+<a href="https://stat-verse-api.vercel.app/play?username=mehedi-hasan-arif2">
+  <img align="right" alt="StatVerse Game & Stats Demo" width="300" src="https://raw.githubusercontent.com/mehedi-hasan-arif2/mehedi-hasan-arif2/main/Assets/68747470733a2f2f696d616765732e737465616d75736572636f6e74656e742e636f6d2f7567632f313636313232343731323036393233303938312f42464436413133424242463646314132413746413641364441393631453037303.gif"/>
+</a>
 
 <p align="left">
   <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=28&color=00F0FF&width=300&lines=About+Me&vCenter=true&center=false&repeat=false" alt="About Me" />
