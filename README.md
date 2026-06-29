@@ -18,7 +18,7 @@
 </p>
 
 <br>
-<a href="https://stat-verse-api.vercel.app/play?username=mehedi-hasan-arif2">
+<a href="https://stat-verse-api-gamma.vercel.app/play?username=mehedi-hasan-arif2">
   <img align="right" alt="StatVerse Game & Stats Demo" width="300" src="https://raw.githubusercontent.com/mehedi-hasan-arif2/mehedi-hasan-arif2/main/Assets/68747470733a2f2f696d616765732e737465616d75736572636f6e74656e742e636f6d2f7567632f313636313232343731323036393233303938312f42464436413133424242463646314132413746413641364441393631453037303.gif"/>
 </a>
 
@@ -100,15 +100,15 @@
 </p>
 
 <p align="center">
-   <img src="https://stat-verse-api.vercel.app/api/orbit?username=mehedi-hasan-arif2" width="46%" />
+   <img src="https://stat-verse-api-gamma.vercel.app/api/orbit?username=mehedi-hasan-arif2" width="46%" />
   &nbsp;&nbsp;
-  <img src="https://stat-verse-api.vercel.app/api/coreStats?username=mehedi-hasan-arif2" width="46%" />
+  <img src="https://stat-verse-api-gamma.vercel.app/api/coreStats?username=mehedi-hasan-arif2" width="46%" />
 </p>
 
 <br> <p align="center">
-  <img src="https://stat-verse-api.vercel.app/api/performance?username=mehedi-hasan-arif2" width="46%" />
+  <img src="https://stat-verse-api-gamma.vercel.app/api/performance?username=mehedi-hasan-arif2" width="46%" />
   &nbsp;&nbsp;
-  <img src="https://stat-verse-api.vercel.app/api/languages?username=mehedi-hasan-arif2" width="46%" />
+  <img src="https://stat-verse-api-gamma.vercel.app/api/languages?username=mehedi-hasan-arif2" width="46%" />
 </p>
 
 <br><br>
