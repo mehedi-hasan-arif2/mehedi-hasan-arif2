@@ -28,10 +28,18 @@
 
 - 🎓 Final year **Computer Science & Engineering** student.
 - 💼 Handling freelance **Web Development** & **Graphic Design**.
-- 🌱 Figuring out **Full Stack Systems** and playing with new architectures.
-- 🤖 Exploring how to mix **Machine Learning** with web apps.
 - 🎬 In my downtime, I enjoy **Anime**, **Manhwa**, **Novels**, & **Movies**.
 - ☕ A dedicated **Coffee** lover—it's what keeps me going.
+
+<br>
+
+<p align="left">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=28&color=00F0FF&width=350&lines=Current+Activities&vCenter=true&center=false&repeat=false" alt="Current Activities" />
+</p>
+
+- 🔭 Currently working on improving my full-stack development skills
+- 🌱 Learning advanced React patterns and backend architecture
+- 👯 Open to collaborating on web development projects
 
 <br clear="right">
 
@@ -43,9 +51,6 @@
   <a href="mailto:iam.mehediarif@gmail.com"><img src="https://img.shields.io/badge/iam.mehediarif%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white" height="26" /></a>
   &nbsp;
   <a href="https://www.linkedin.com/in/mehedi-hasan-arif-0aaa5a394/" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="26" width="32" /></a>
-  <a href="https://www.facebook.com/mehedi.hasan.arif.133022/" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="26" width="32" /></a>
-  <a href="https://www.instagram.com/mharif982/" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="26" width="32" /></a>
-  <a href="https://discord.gg/ZBMX7dDa" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Discord" height="26" width="32" /></a>
 </p>
 
 <br>
@@ -53,7 +58,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=28&color=00F0FF&width=450&lines=Technologies+I+Work+With&vCenter=true&center=false&repeat=false" alt="Tech Stack" />
 </h2>
 
-#### 🌐 Frontend Development <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="20" height="25" style="vertical-align: middle;">
+#### 🌐 Frontend Development
 <p align="left">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
@@ -63,7 +68,7 @@
   <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" />
 </p>
 
-#### ⚙️ Backend & Infrastructure <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="20" height="25" style="vertical-align: middle;">
+#### ⚙️ Backend & Infrastructure
 <p align="left">
   <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
   <img src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white" />
@@ -72,7 +77,7 @@
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" />
 </p>
 
-#### 🔧 DevOps & Productivity <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="20" height="25" style="vertical-align: middle;">
+#### 🔧 DevOps & Productivity
 <p align="left">
   <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
@@ -84,7 +89,7 @@
   <img src="https://img.shields.io/badge/Clever_Cloud-2E3192?style=flat-square&logo=clevercloud&logoColor=white" />
 </p>
 
-#### 🎨 Creative & Visual Design <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="20" height="25" style="vertical-align: middle;">
+#### 🎨 Creative & Visual Design
 <p align="left">
   <img src="https://img.shields.io/badge/Adobe_Photoshop-31A8FF?style=flat-square&logo=adobephotoshop&logoColor=white" />
   <img src="https://img.shields.io/badge/Adobe_Illustrator-FF9A00?style=flat-square&logo=adobeillustrator&logoColor=white" />
@@ -124,7 +129,3 @@
 <p align="center">
   <img src="https://github.com/mehedi-hasan-arif2/mehedi-hasan-arif2/blob/main/Assets/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f657279616a662f7475406d61696e2f696d672f696d6167655f32303234303432305f3231343430382e676966.gif" width="100%" height="2">
 </p>
-
-
-
-
