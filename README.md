@@ -51,6 +51,10 @@
   <a href="mailto:iam.mehediarif@gmail.com"><img src="https://img.shields.io/badge/iam.mehediarif%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white" height="26" /></a>
   &nbsp;
   <a href="https://www.linkedin.com/in/mehedi-hasan-arif-0aaa5a394/" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="26" width="32" /></a>
+  &nbsp;
+  <a href="https://github.com/mehedi-hasan-arif2" target="blank"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" height="26" /></a>
+  &nbsp;
+  <a href="tel:+8801897529324"><img src="https://img.shields.io/badge/01533648004-25D366?style=flat-square&logo=whatsapp&logoColor=white" alt="Contact" height="26" /></a>
 </p>
 
 <br>
